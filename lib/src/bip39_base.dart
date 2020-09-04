@@ -26,7 +26,7 @@ enum Wordlist {
 
 final _wordlistCache = Map<Wordlist, List<dynamic>>();
 
-const Wordlist _DEFAULT_WORDLIST = Wordlist.ENGLISH;
+const Wordlist _DEFAULT_WORDLIST = Wordlist.ITALIAN;
 
 const int _SIZE_8BITS = 255;
 const String _INVALID_ENTROPY = 'Invalid entropy';
